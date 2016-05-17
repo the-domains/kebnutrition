@@ -1,4 +1,4 @@
-name: KEBNutrition
+name: Life Nutrition
 favicon: null
 layout_spectrum: 0.13213282567448914
 typography_spectrum: 0.2980812694877386
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#131313'
+    - '#90693e'
+    - '#72482e'
+    - '#e0dada'
+    - '#b8bbce'
   brandStrength: 0.42676446260884404
   lightness: 0.5253740961197764
   saturation: 0.3601389843970537
