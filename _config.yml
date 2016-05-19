@@ -1,7 +1,7 @@
 name: Life Nutrition
 favicon: null
 layout_spectrum: 0.13213282567448914
-typography_spectrum: 0.2980812694877386
+typography_spectrum: 0.86874
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#a9a194'
     - '#6b4228'
     - '#9c6958'
-  brandStrength: 0.42676446260884404
-  lightness: 0.5253740961197764
+  brandStrength: 0.6875
+  lightness: 0.75
   saturation: 0.3601389843970537
-  rhythmicContrast: 0.4315827591344714
+  rhythmicContrast: 0.5
 purpose: []
